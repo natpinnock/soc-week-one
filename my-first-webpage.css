@@ -1,0 +1,29 @@
+html{
+    background-image: linear-gradient(grey, white);
+}
+
+.date { 
+    color:#87636d;
+    background-color: #94b8a6;
+    text-indent: 30px;
+    text-align: center;
+    display: block;
+    }
+
+footer a {
+    color: red;
+}
+
+
+h1{
+    color:#87636d;
+    font-size: 80px;
+    text-align: center;
+    font-variant: small-caps;
+    line-height: 1.2;
+    text-shadow: 0 5px 5px rgba(0,0,0,0.75);
+}
+
+body {
+       font: 500 16px/2 Calibri, sans-serif;
+}
