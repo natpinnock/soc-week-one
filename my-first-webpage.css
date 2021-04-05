@@ -1,5 +1,5 @@
 html{
-    background-image: linear-gradient(grey, white);
+    background-image: linear-gradient(45deg, grey, white);
 }
 
 .date { 
@@ -11,7 +11,15 @@ html{
     }
 
 footer a {
+    color: blue;
+}
+
+footer a:hover {
     color: red;
+}
+
+footer a:visited {
+    color: purple;
 }
 
 
@@ -22,8 +30,10 @@ h1{
     font-variant: small-caps;
     line-height: 1.2;
     text-shadow: 0 5px 5px rgba(0,0,0,0.75);
+    border: 5px solid #94b8a6;
+    
 }
 
 body {
-       font: 500 16px/2 Calibri, sans-serif;
+    font: 500 16px/2 Calibri, sans-serif;
 }
